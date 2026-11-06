@@ -1,0 +1,7 @@
+{
+    "api_id": 12345678,
+    "api_hash": "YOUR_TELEGRAM_API_HASH",
+    "channel_id": -1001234567890,
+    "bot_token": "",
+    "app_password": "SET_THIS_IN_FIRST_RUN_SETUP"
+}

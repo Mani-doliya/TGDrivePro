@@ -1,0 +1,4 @@
+# Core runtime dependencies
+customtkinter>=5.2.2,<6
+Telethon>=1.36.0,<2
+Pillow>=10.0.0,<13
